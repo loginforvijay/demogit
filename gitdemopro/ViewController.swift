@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         
         print(" this is view did load data access")
         
+        print(" the data occures")
+        
+    
+        
         self.view.backgroundColor = UIColor.yellow
         
     }
